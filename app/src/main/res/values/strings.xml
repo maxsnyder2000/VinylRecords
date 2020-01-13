@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Vinyl Records</string>
+
+    <string name="add_record_button">Add Record</string>
+    <string name="title_activity_add_record">Add a Record</string>
+
+    <string name="field_image">Image</string>
+    <string name="field_title">Title</string>
+    <string name="field_artist">Artist</string>
+
+    <string name="field_length">Length</string>
+    <string name="length_1">LP</string>
+    <string name="length_2">2xLP</string>
+    <string name="length_3">3xLP</string>
+    <string name="length_4">45</string>
+    <string name="length_5">EP</string>
+
+    <string name="field_original">Original?</string>
+    <string name="field_label">Label</string>
+    <string name="field_serial">Serial</string>
+
+    <string name="field_released">Date Released</string>
+    <string name="format_released">Date Released\n(YYYY.MM.DD)</string>
+
+    <string name="field_purchased">Date Purchased</string>
+    <string name="format_purchased">Date Purchased\n(YYYY.MM.DD)</string>
+
+    <string name="field_plays">Play</string>
+
+    <string name="field_file">File</string>
+    <string name="file_data">____DATA____.txt</string>
+    <string name="file_true">TRUE</string>
+    <string name="file_false">FALSE</string>
+
+    <string name="extra_pos">Position</string>
+
+    <string name="dialog_delete">DELETE</string>
+    <string name="dialog_delete_2">Delete this record?</string>
+    <string name="dialog_yes">Yes</string>
+    <string name="dialog_no">No</string>
+
+    <string name="sort_title">Sort Title</string>
+    <string name="sort_artist">Sort Artist</string>
+    <string name="sort_length">Sort Length</string>
+    <string name="sort_released">S. Released</string>
+    <string name="sort_purchased">S. Purchased</string>
+
+    <string name="file_backup">DATA_BACKUP.txt</string>
+    <string name="toast_backup">Data backed up.</string>
+    <string name="dialog_backup">Backup?</string>
+    <string name="dialog_restore">****RESTORE FROM BACKUP????****</string>
+</resources>
